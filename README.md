@@ -39,7 +39,7 @@ Dashboard Preview
 
 
 Project Files (ZIP Contents)
-Toronto-Housing-Demographic-Analysis.zip
+Toronto Neighbourhood Market & Demographic Analysis.zip
 │
 ├── data
 │   └── neighbourhood-profiles-2021.xlsx
